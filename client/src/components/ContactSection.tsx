@@ -153,7 +153,7 @@ export default function ContactSection() {
                 </a>
 
                 <a
-                  href="https://github.com/Devcoding17"
+                  href="https://github.com/Dev-Parmar17"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center gap-5 p-5 rounded-xl hover-elevate active-elevate-2 bg-background border-2 border-border transition-all"
